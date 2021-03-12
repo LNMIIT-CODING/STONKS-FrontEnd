@@ -43,8 +43,9 @@ jobs:
       run: |
         git config --global user.name $user_name
         git config --global user.email $user_email
-        git remote set-url origin git@github.com:LNMIIT-CODING/stonks-frontend.git
+        git remote set-url origin git@github.com:${github_token}/stonks-frontend.git
         npm run deploy
       env:
         user_name: 'AkMo3'
         user_email: 'akmo3901@gmail.com'
+        github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
