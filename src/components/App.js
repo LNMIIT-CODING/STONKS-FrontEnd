@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       {/* Layout allows to wrap  the header and footer in one App */}
-      
+
       <Layout>
         <Switch>
           {/* Home Route */}
