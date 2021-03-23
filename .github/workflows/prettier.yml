@@ -1,13 +1,13 @@
 name: Prettier Action
 
  # This action works with pull requests and pushes
- on:
+on:
    pull_request:
      branches: [master]
    push:
      branches:
      - master
- jobs:
+jobs:
    prettier:
      runs-on: ubuntu-latest
 
