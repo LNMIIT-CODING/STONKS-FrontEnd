@@ -1,12 +1,65 @@
-# Getting Started with Create React App
+# Project Information
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+There are many Investment firms and also many indivisuals that try to predict the market behavior in order to get a good return by statistical methods and analaysing the data.
+For the same **STONKS Application** can be used which will have the capability to predict stock movement based on Logistic Regression(LR) Model. This project is the frontend part of the STONKS Application. In the application, the users will be able to see the current as well as the prevoius stock parameters and all other data they need.
+In future Crypto may also be included and emphasis will be given on improving the quality of the service.
 
-## Available Scripts
+
+### List of Moderators
+
+* **[Mayank Talwar](https://github.com/DreadArceus)**: JavaScript, React, Node.js, Django REST, MongoDB, Tensorflow(Keras), Numpy ,CSS
+* **[Akash Mondal](https://github.com/AkMo3)**: GitHub
+* **[Om Gupta](https://github.com/OmGuptaIND)**: React, Node.js, Django REST, MongoDB, PostgreSQL, SQLite
+* **[Souhardya Malakar](https://github.com/SouhardyaMalakar)**: CSS, React Tensorflow(Keras), Numpy
+* **[Arush Kurundodi](https://github.com/arcinston)**: React
+* **[Sriraj Behera](https://github.com/SrirajBehera)**: JavaScript, Node, MongoDB
+* **[Utkarsh Choubey](https://github.com/utk2541)**: React
+* **[Ananjan](https://github.com/ananjan)**: Tensorflow(Keras), Numpy
+* **[Shivral](https://github.com/shivral)**: Web Scraping
+* **[Siddhant Singhania](https://github.com/sid11428)**: React
+* **[Sourabh](https://github.com/sourabhjo7)**
+
+
+### Members of the LNMIIT-CODING STONKS
+
+* [Akash Mondal](https://github.com/AkMo3)
+* [Ananjan](https://github.com/ananjan)
+* [Ansh Pant](https://github.com/AnshPant)
+* [Arush Kurundodi](https://github.com/arcinston)
+* [Astha Singh](https://github.com/Astha-Singh1729)
+* [Ayush Shukla](https://github.com/Ayush-Shukla02)
+* [Mayank Talwar](https://github.com/DreadArceus)
+* [MaySi11](https://github.com/MaySi11)
+* [Pranav Mehta](https://github.com/mehta1351)
+* [N-Coder-Bot](https://github.com/N-coder-bot)
+* [Om Gupta](https://github.com/OmGuptaIND)
+* [Shivral](https://github.com/shivral)
+* [Siddhant Singhania](https://github.com/sid11428)
+* [Souhardya Malakar](https://github.com/SouhardyaMalakar)
+* [Sourabh](https://github.com/sourabhjo7)
+* [Sriraj Behera](https://github.com/SrirajBehera)
+* [Utkarsh Choubey](https://github.com/utk2541)
+
+
+## Setting up Project
+
+
+
+### Steps to Contribute
+* Fork the Repo
+* Clone the forked repo
+* Take up an issue
+* Checkout from the master branch to a new branch for every issue
+* Commit the changes to a new branch and squash them to be one in the right format
+* Commit message format to be used is: **Issue `#ISSUE_NO`: `SINGLE LINE DECRIPTION OF THE ISSUE`**  <br/>   E.g. Issue #1: Update README.md to include project details.
+* Make a PR(Pull Request) from the new branch
+
+
+### Some Useful Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+#### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,12 +67,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
+#### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+#### `yarn build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -27,44 +79,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Project Tech Stack
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* React JS
+* PostgreSQL
