@@ -2,9 +2,9 @@ import "./App.css";
 
 //Components;
 import { Redirect, Route, Switch } from "react-router-dom";
-import About from "./Views/About/About";
-import Layout from "../partials/Layout";
-import DashBoard from "./Views/DashBoard/DashBoard";
+import About from "../Views/About/About.jsx";
+import DashBoard from "../Views/DashBoard/DashBoard";
+import Layout from "../components/Layout";
 function App() {
   return (
     <>
