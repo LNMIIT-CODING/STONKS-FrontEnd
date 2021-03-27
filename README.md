@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Ayush-Shukla02/stonks-frontend/master/public/Images/stonks_logo.png" att="" height="650" width="1000" />
+
 # Project Information
 
 There are many Investment firms and also many indivisuals that try to predict the market behavior in order to get a good return by statistical methods and analaysing the data.
