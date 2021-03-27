@@ -4,7 +4,7 @@ import "./App.css";
 import { Redirect, Route, Switch } from "react-router-dom";
 import About from "../Views/About/About.jsx";
 import DashBoard from "../Views/DashBoard/DashBoard";
-import Layout from "../components/Layout";
+import Layout from "../Components/Layout";
 function App() {
   return (
     <>
