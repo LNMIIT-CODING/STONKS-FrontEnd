@@ -1,0 +1,59 @@
+.AboutPage {
+    font-family: KiwiMaru;
+}
+
+.AboutPage p{
+    font-size: large
+}
+
+.H1 {
+    font-size: 300%;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+
+.tagLine {
+    padding-left: 27.5%;
+    padding-bottom: 5%;
+}
+
+.ProjectInformation {
+    width: 50%;
+    border: aliceblue;
+    border-style:groove;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.Mod {
+    padding-left: 60%;
+    padding-top: 5%;
+    width: 80%;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+.Moderators {
+    padding-left: 40%;
+    padding: 20% 20% 20% 20%;
+    border: aliceblue;
+    border-style:groove;
+    border-radius: 20px;
+}
+
+.Members {
+    padding-left: 5%;
+    padding-top: 5%;
+    width: 80%;
+}
+
+.Member {
+    width: 30%;
+    padding: 5% 5% 5% 5%;
+    border: aliceblue;
+    border-style:groove;
+    border-radius: 20px;
+}
+
